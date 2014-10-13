@@ -10,6 +10,7 @@ To apply my skills and education in the development of software.
 
 Bachelors of Science, Computer Science and Software Development, May 2015
 Georgia Gwinnett College, Lawrenceville, Georgia
+
 	* Central Focus is in the developement and improvement of custom software.
 	* Heavy emphasis on both individual and team development structures.
 	* Experience with documentation, version control, and scheduling.
@@ -23,12 +24,14 @@ National Technical Honors Society
 ##Experience
 
 Web Hosting Provider, Code Priority, December 2010 to August 2013
+
 	* Negotiated sales of hosting packages and website creation with small businesses.
 	* Assisted with server hosting and maintenance.
 	* Worked on Wordpress theme customization and troubleshooting.
 
 
 Shift Manager, Regal Entertainment Group, Dacula, GA, July 2008 to December 2013
+
 	* Key holder and sole manager during various shifts.
 	* Led and trained all levels of personnel.
 	* Developed and implemented various sales initiatives and strategies.
