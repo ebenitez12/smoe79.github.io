@@ -1,51 +1,54 @@
 # Jared Marquez
 	
+ * Email:
  * <smoe79@gmail.com>
- * 678-371-4666
 
 ## Objective
 
-To futher my education and experience in field of IT and programming.
-To take the skills learned into the field of Video Game Development.
+To apply my skills and education in the development of software. 
 
 ## Education
+
+Bachelors of Science, Computer Science and Software Development, May 2015
+Georgia Gwinnett College, Lawrenceville, Georgia
+	- Central Focus is in the developement and improvement of custom software.
+	- Heavy emphasis on both individual and team development structures.
+	- Experience with documentation, version control, and scheduling.
+	- Experience with testing, debugging, and designing to user needs.
 
 College Prepatory w/Technical Honors
 Mill Creek High School
 National Technical Honors Society
 
-Current Study:
-Software Development, B.S.
-Fall 2008 - Current
-Georgia Gwinnett College, Lawrenceville
 
-## Proficiency
+##Experience
 
-I am a beginning Java developer with a few years experience making 
-different applications. I also have experience in the design and 
-professional development of these projects. I have been part of 
-multiple software development teams and I am often given the 
-responsibility of creating and maintaining design documents.
+Web Hosting Provider, Code Priority, December 2010 to August 2013
+	- Negotiated sales of hosting packages and website creation with small businesses.
+	- Assisted with server hosting and maintenance.
+	-Worked on Wordpress theme customization and troubleshooting.
 
-## Work Experience
 
-### Regal Theatres Hamilton Mill 14
+Shift Manager, Regal Entertainment Group, Dacula, GA, July 2008 to December 2013
+	- Key holder and sole manager during various shifts.
+	- Led and trained all levels of personnel.
+	- Developed and implemented various sales initiatives and strategies.
+	- Negotiated relationships and services with various local businesses.	
 
-#### Floor Staff/Projectionist - July 2008 to March 2013
+##Skills
 
-I maintained the running of the Hamilton Mill 14 movie theater in all 
-aspects. I was part of the box office and conssesion sales team as well 
-part of the projection team. The projection team had me use, maintain,
-and troubleshoot film projector, digital projectors, movie servers, and
-sound booth.
+	- Experience developing programs with C#, C++, Java, JavaScript.
+	- Experience with project scope, Gantt charts, and development pipelines.
+	- Competent in the writing of change logs and technical user manuals.
+	- Skilled in creating technical documents with the Microsoft Office Suite. 
+	- Fluently spoken in Spanish.
 
-#### Assistant Manager - March 2013 to current
+##Interests
 
-While still maintaning the running of theater, my responsibilities have
-grown to managing the employees of the theater and keeping the team
-on track in all aspects. I have also futhered my experience with a
-different projection system that has gone fully digital. Here I must 
-maintain and troubleshoot LMS servers and digital movie servers.
+	-  Interest in business and corporate strategies.  
+	-  Interest in automated manufacturing processes. (i.e. "How it's Made") 
+	-  Interest in military and religious history.
+
 
 ### GGC Software Development Team
 
